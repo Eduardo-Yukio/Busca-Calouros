@@ -6,20 +6,20 @@ Não se preocupe, o programa pergunta na ordem correta as devidas informações!
 
 ### Alguns cuidados:
 
-Não se enqueça de salvar o arquivo pdf com os aprovados na mesma pasta que esse código!!!
+-Não se enqueça de salvar o arquivo pdf com os aprovados na mesma pasta que esse código!!!
 
-Na hora de inserir o código do curso, há dois compenentes: a carreira e o descritor.
-Exemplos: '312-19', '317-05', '190-58'
+-Na hora de inserir o código do curso, há dois compenentes: a carreira e o descritor.
+ Exemplos: '312-19', '317-05', '190-58'
 
-A carreira são os três primeiros digitos e sempre serão três digitos!
-O descritor, em contrapartida, pode ter um ou dois dígitos. Ao inserir no código, não
-se esqueça de sempre colocar o '0' no descritor. Ou seja, se o descritor do curso desejado
-é '6' e a carreira é '145', insira '145-06'.
+ A carreira são os três primeiros digitos e sempre serão três digitos!
+ O descritor, em contrapartida, pode ter um ou dois dígitos. Ao inserir no código, não
+ se esqueça de sempre colocar o '0' no descritor. Ou seja, se o descritor do curso desejado
+ é '6' e a carreira é '145', insira '145-06'.
 
 
-Se desejar utilziar o código para a segunda chamada, apague o arquivo da primeira chamada
-da pasta em que está esse programa, coloque o arquivo com a segunda chamada e mude o nome
-do arquivo da segunda chamada para 'fuvest_aprovado.pdf'.
+-Se desejar utilziar o código para a segunda chamada, apague o arquivo da primeira chamada
+ da pasta em que está esse programa, coloque o arquivo com a segunda chamada e mude o nome
+ do arquivo da segunda chamada para 'fuvest_aprovado.pdf'.
 
 
 
