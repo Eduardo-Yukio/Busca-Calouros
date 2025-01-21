@@ -17,7 +17,7 @@ try:
 
 except:
     try:
-        arquivo = 'fuvest_2024_chamada_1.pdf'
+        arquivo = 'fuvest_2025_chamada_1.pdf'
         reader = PdfReader(arquivo)
 
     except:
@@ -29,7 +29,7 @@ except:
 
         except:
             print("Essa não, parece que o nome do arquivo não está batendo com a minha base.")
-            print("Mude o nome do arquivo para 'fuvest_aprovado.pdf' e execute o programa novamente!")
+            print("Mude o nome do arquivo para 'fuvest_aprovados.pdf' e execute o programa novamente!")
 
 
 print("A partir de agora, definiremos os cursos e seus respectivos códigos de carreira!")
