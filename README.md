@@ -1,10 +1,10 @@
-*Olá!
+## Olá!
 Este código foi criado com o objetivo de buscar os calouros na extensa lista da FUVEST.
 Para usá-lo, basta inserir quantos cursos você deseja procurar e inserir o código do curso.
 Não se preocupe, o programa pergunta na ordem correta as devidas informações!
 
 
-*Alguns cuidados:
+### Alguns cuidados:
 
 Não se enqueça de salvar o arquivo pdf com os aprovados na mesma pasta que esse código!!!
 
