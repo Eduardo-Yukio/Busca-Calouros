@@ -19,7 +19,7 @@ Não se preocupe, o programa pergunta na ordem correta as devidas informações!
 
 -Se desejar utilziar o código para a segunda chamada, apague o arquivo da primeira chamada
  da pasta em que está esse programa, coloque o arquivo com a segunda chamada e mude o nome
- do arquivo da segunda chamada para 'fuvest_aprovado.pdf'.
+ do arquivo da segunda chamada para 'fuvest_aprovados.pdf'.
 
 
 
