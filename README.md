@@ -26,3 +26,11 @@ Não se preocupe, o programa pergunta na ordem correta as devidas informações!
 Em caso de dúvidas ou problemas, emcaminha-me um e-mail ou uma mensagem pelo Twitter.
 e-mail: eduardoyukio.ishihara@usp.br
 Twitter: @EduardoYukio_
+
+
+## Lista de chamadas simplificada:
+Caso o arquivo da lista tenha o layout simplificado, use o algoritmo 'fuvest_simplificado.py'.
+Para usá-lo, basta invocar 
+```bash
+python fuvest_simplificado.py C://caminho/para/o/arquivo/fuvest_aprovados.pdf -f "Instituto de Matemática e Estatística - USP" -f "Outra escola opcional"
+```
