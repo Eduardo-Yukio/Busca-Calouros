@@ -30,12 +30,14 @@ Twitter: @EduardoYukio_
 
 ### Lista de chamadas simplificada:
 Caso o arquivo da lista tenha o layout simplificado, use o algoritmo 'fuvest_simplificado.py'.
-Para usá-lo, basta invocar 
+Para usá-lo, basta executar:
 ```bash
 python fuvest_simplificado.py C://caminho/para/o/arquivo/fuvest_aprovados.pdf -f "Instituto de Matemática e Estatística - USP" -f "Outra escola opcional"
 ```
 
-Também é possível rodar o script através de um link direto do arquivo PDF, como por exemplo:
+Também é possível rodar o script diretamente a partir de um link para o arquivo PDF, como no exemplo abaixo:
 ```bash
 python fuvest_simplificado.py https://www.fuvest.br/wp-content/uploads/2021/02/fuvest_aprovados.pdf -f "Instituto de Matemática e Estatística - USP" -f "Outra escola opcional"
 ```
+
+Você pode filtrar os resultados por instituto, informando seus nomes completos. Para isso, utilize o argumento -f para cada instituição desejada. Os resultados sempre serão exibidos agrupados por curso.
