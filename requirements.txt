@@ -1,0 +1,6 @@
+pypdf
+typer
+pandas
+rich
+tqdm
+requests
