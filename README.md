@@ -28,7 +28,7 @@ e-mail: eduardoyukio.ishihara@usp.br
 Twitter: @EduardoYukio_
 
 
-## Lista de chamadas simplificada:
+### Lista de chamadas simplificada:
 Caso o arquivo da lista tenha o layout simplificado, use o algoritmo 'fuvest_simplificado.py'.
 Para usá-lo, basta invocar 
 ```bash
