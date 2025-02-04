@@ -34,3 +34,8 @@ Para usá-lo, basta invocar
 ```bash
 python fuvest_simplificado.py C://caminho/para/o/arquivo/fuvest_aprovados.pdf -f "Instituto de Matemática e Estatística - USP" -f "Outra escola opcional"
 ```
+
+Também é possível rodar o script através de um link direto do arquivo PDF, como por exemplo:
+```bash
+python fuvest_simplificado.py https://www.fuvest.br/wp-content/uploads/2021/02/fuvest_aprovados.pdf -f "Instituto de Matemática e Estatística - USP" -f "Outra escola opcional"
+```
